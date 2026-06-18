@@ -1,3 +1,7 @@
 name = "recent-changes"
 main = "recent-changes.js"
 compatibility_date = "2026-06-17"
+
+[observability.logs]
+enabled = true
+invocation_logs = true
